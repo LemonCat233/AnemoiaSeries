@@ -59,3 +59,6 @@
 
 ### 🌃🧨🧧Neonmoia（霓虹渺忆）
 一个中式霓虹灯风格的[wikidot后室中文维基](https://backrooms-wiki-cn.wikidot.com)版式。
+
+预计特性：
+- [ ] 霓虹灯，什么的。
