@@ -3,10 +3,14 @@
 
 以下是作品明细（按预计发布顺序排列）：
 
+<br>
+<br>
 
 ## 🏙🏃🏻‍♂️♿️S.P.N.C.moia（速切渺忆）
 一个有关假想中“速切玩家”在[wikidot后室中文维基](https://backrooms-wiki-cn.wikidot.com)中发展方向的版式。
 
+<br>
+<br>
 
 ## 🌌🚗🌅Synthmoia（合成渺忆）
 一个 [synthwave](https://en.m.wikipedia.org/wiki/Synthwave) 风格的[wikidot后室中文维基](https://backrooms-wiki-cn.wikidot.com)版式。
@@ -23,6 +27,8 @@
 - [ ] 磁带机风编辑窗口；
 - [ ] 伪音乐播放器图片组件块；
 
+<br>
+<br>
 
 ## 🌃🧨🧧Neonmoia（霓虹渺忆）
 一个中式霓虹灯风格的[wikidot后室中文维基](https://backrooms-wiki-cn.wikidot.com)版式。
